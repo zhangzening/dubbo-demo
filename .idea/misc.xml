@@ -7,7 +7,15 @@
         <option value="$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/pom.xml" />
         <option value="$PROJECT_DIR$/dubbov2_6/dubbov2_6-demo-xml/dubbov2_6-demo-xml-provider/pom.xml" />
         <option value="$PROJECT_DIR$/dubbov2_6/dubbov2_6-demo-xml/dubbov2_6-demo-xml-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbov2_7/dubbov2_7-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbov2_6/dubbov2_6-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/interface/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-user-xml-provider/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

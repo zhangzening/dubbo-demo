@@ -17,7 +17,7 @@
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
     <modules>
-        <module>dubbov2_6-demo-xml</module>
+        <module>dubbov2_6-xml</module>
     </modules>
 
     <dependencies>
@@ -42,7 +42,7 @@
         </dependency>
         <dependency>
             <groupId>com.dubbo.demo</groupId>
-            <artifactId>dubbo-demo-interface</artifactId>
+            <artifactId>interface</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 

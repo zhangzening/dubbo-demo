@@ -16,7 +16,7 @@
   <modules>
     <module>dubbov2_7</module>
     <module>dubbov2_6</module>
-    <module>dubbo-demo-interface</module>
+    <module>interface</module>
   </modules>
 
   <properties>
@@ -25,13 +25,6 @@
 
   <dependencyManagement>
     <dependencies>
-      <!--      <dependency>
-              <groupId>org.apache.dubbo</groupId>
-              <artifactId>dubbo-dependencies-bom</artifactId>
-              <version>2.7.0-SNAPSHOT</version>
-              <type>pom</type>
-              <scope>import</scope>
-            </dependency>-->
       <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-dependencies</artifactId>

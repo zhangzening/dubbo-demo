@@ -6,19 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="consumer-xml-application-v2_6" />
+        <module name="consumer-xml-application-v2_7" />
         <module name="dubbo-demo-annotation" />
         <module name="dubbo-demo-api-consumer" />
         <module name="dubbo-demo-api-provider" />
         <module name="dubbo-demo-interface" />
-        <module name="dubbov2_6-demo-xml-consumer" />
-        <module name="dubbov2_6-demo-xml-provider" />
-        <module name="dubbov2_7-demo-xml-consumer" />
-        <module name="dubbov2_7-demo-xml-provider" />
-        <module name="dubbov2_7-demo-xml-provider-sleep" />
-        <module name="dubbov2_7-user-xml-provider" />
+        <module name="provider-sleep5s-xml-application-v2_7" />
+        <module name="provider-xml-application-v2_6" />
+        <module name="provider-xml-application-v2_7" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="consumer-xml-application-v2_6" target="1.8" />
+      <module name="consumer-xml-application-v2_7" target="1.8" />
       <module name="dubbo-demo" target="1.8" />
       <module name="dubbo-demo-annotation" target="1.8" />
       <module name="dubbo-demo-api" target="1.8" />
@@ -27,14 +28,13 @@
       <module name="dubbo-demo-interface" target="1.8" />
       <module name="dubbov2_6" target="1.8" />
       <module name="dubbov2_6-demo-xml" target="1.8" />
-      <module name="dubbov2_6-demo-xml-consumer" target="1.8" />
-      <module name="dubbov2_6-demo-xml-provider" target="1.8" />
+      <module name="dubbov2_6-xml" target="1.8" />
       <module name="dubbov2_7" target="1.8" />
-      <module name="dubbov2_7-demo-xml" target="1.8" />
-      <module name="dubbov2_7-demo-xml-consumer" target="1.8" />
-      <module name="dubbov2_7-demo-xml-provider" target="1.8" />
-      <module name="dubbov2_7-demo-xml-provider-sleep" target="1.8" />
       <module name="dubbov2_7-user-xml-provider" target="1.8" />
+      <module name="dubbov2_7-xml" target="1.8" />
+      <module name="provider-sleep5s-xml-application-v2_7" target="1.8" />
+      <module name="provider-xml-application-v2_6" target="1.8" />
+      <module name="provider-xml-application-v2_7" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
