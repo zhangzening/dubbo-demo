@@ -16,9 +16,10 @@ public class DemoController {
 
     @GetMapping("demo")
     @ResponseBody
-    public String demo(String name) {
-//        RpcContext.getContext().setAttachment(Constants.TAG_KEY,"tag1");
-//        RpcContext.getContext().setAttachment(Constants.FORCE_USE_TAG,"true");
+    public String demo(String name, String tag) {
+        if (null != tag || !"".equals(tag)) {
+            RpcContext.getContext().setAttachment(Constants.TAG_KEY,tag);
+        }
         String s = demoService.sayHello(name);
         System.out.println("------->>> " + s);
         return "success  from " + s;
