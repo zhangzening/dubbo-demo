@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo.iml" filepath="$PROJECT_DIR$/dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbo-demo-annotation/dubbo-demo-annotation.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbo-demo-annotation/dubbo-demo-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api-consumer/dubbo-demo-api-consumer.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api-consumer/dubbo-demo-api-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api-provider/dubbo-demo-api-provider.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api-provider/dubbo-demo-api-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-interface/dubbo-demo-interface.iml" filepath="$PROJECT_DIR$/dubbo-demo-interface/dubbo-demo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_6/dubbov2_6.iml" filepath="$PROJECT_DIR$/dubbov2_6/dubbov2_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_6/dubbov2_6-demo-xml/dubbo-demo-xml.iml" filepath="$PROJECT_DIR$/dubbov2_6/dubbov2_6-demo-xml/dubbo-demo-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_6/dubbov2_6-demo-xml/dubbov2_6-demo-xml-consumer/dubbo-demo-xml-consumer.iml" filepath="$PROJECT_DIR$/dubbov2_6/dubbov2_6-demo-xml/dubbov2_6-demo-xml-consumer/dubbo-demo-xml-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_6/dubbov2_6-demo-xml/dubbov2_6-demo-xml-provider/dubbov2_6-demo-xml-provider.iml" filepath="$PROJECT_DIR$/dubbov2_6/dubbov2_6-demo-xml/dubbov2_6-demo-xml-provider/dubbov2_6-demo-xml-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-demo-xml.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-demo-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-demo-xml-consumer/dubbov2_7-demo-xml-consumer.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-demo-xml-consumer/dubbov2_7-demo-xml-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-demo-xml-provider/dubbov2_7-demo-xml-provider.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-demo-xml-provider/dubbov2_7-demo-xml-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-demo-xml-provider-sleep/dubbov2_7-demo-xml-provider-sleep.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-demo-xml-provider-sleep/dubbov2_7-demo-xml-provider-sleep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-user-xml-provider/dubbov2_7-user-xml-provider.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7-demo-xml/dubbov2_7-user-xml-provider/dubbov2_7-user-xml-provider.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+       http://dubbo.apache.org/schema/dubbo http://dubbo.apache.org/schema/dubbo/dubbo.xsd">
+
+
+    <dubbo:application name="demo-v2.6-xml-provider" owner=""/>
+    <dubbo:registry address="zookeeper://10.20.11.116:2182"/>
+<!--    <dubbo:registry address="zookeeper://10.20.11.116:2183"/>-->
+<!--    <dubbo:registry address="redis://127.0.0.1:6379"/>-->
+
+    <dubbo:protocol name="dubbo" port="26880"/>
+
+    <bean id="demoService" class="com.dubbo.demo.provider.DemoServiceImpl"/>
+
+    <!-- declare the service interface to be exported -->
+    <dubbo:service interface="com.dubbo.demo.DemoService" ref="demoService"/>
+
+    <!-- service implementation, as same as regular local bean -->
+    <bean id="userService" class="com.dubbo.demo.provider.UserServiceImpl"/>
+
+    <!-- declare the service interface to be exported -->
+    <dubbo:service interface="com.dubbo.demo.UserService" ref="userService"/>
+
+</beans>
