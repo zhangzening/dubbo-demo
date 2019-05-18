@@ -9,11 +9,11 @@
       <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api-consumer/dubbo-demo-api-consumer.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api-consumer/dubbo-demo-api-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api-provider/dubbo-demo-api-provider.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbo-demo-api/dubbo-demo-api-provider/dubbo-demo-api-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interface/dubbo-demo-interface.iml" filepath="$PROJECT_DIR$/interface/dubbo-demo-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_6/dubbov2_6.iml" filepath="$PROJECT_DIR$/dubbov2_6/dubbov2_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_6/dubbov2_6-xml/dubbov2_6-xml.iml" filepath="$PROJECT_DIR$/dubbov2_6/dubbov2_6-xml/dubbov2_6-xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7-xml/dubbov2_7-xml.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7-xml/dubbov2_7-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7-xml/provider-sleep5s-xml-application-v2_7/provider-sleep5s-xml-application-v2_7.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7-xml/provider-sleep5s-xml-application-v2_7/provider-sleep5s-xml-application-v2_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_6/dubbov2_6-xml/provider-xml-application-v2_6/provider-xml-application-v2_6.iml" filepath="$PROJECT_DIR$/dubbov2_6/dubbov2_6-xml/provider-xml-application-v2_6/provider-xml-application-v2_6.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbov2_7/dubbov2_7-xml/provider-xml-application-v2_7/provider-xml-application-v2_7.iml" filepath="$PROJECT_DIR$/dubbov2_7/dubbov2_7-xml/provider-xml-application-v2_7/provider-xml-application-v2_7.iml" />

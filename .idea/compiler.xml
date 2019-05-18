@@ -11,7 +11,7 @@
         <module name="dubbo-demo-annotation" />
         <module name="dubbo-demo-api-consumer" />
         <module name="dubbo-demo-api-provider" />
-        <module name="dubbo-demo-interface" />
+        <module name="interface" />
         <module name="provider-sleep5s-xml-application-v2_7" />
         <module name="provider-xml-application-v2_6" />
         <module name="provider-xml-application-v2_7" />
@@ -25,13 +25,13 @@
       <module name="dubbo-demo-api" target="1.8" />
       <module name="dubbo-demo-api-consumer" target="1.8" />
       <module name="dubbo-demo-api-provider" target="1.8" />
-      <module name="dubbo-demo-interface" target="1.8" />
       <module name="dubbov2_6" target="1.8" />
       <module name="dubbov2_6-demo-xml" target="1.8" />
       <module name="dubbov2_6-xml" target="1.8" />
       <module name="dubbov2_7" target="1.8" />
       <module name="dubbov2_7-user-xml-provider" target="1.8" />
       <module name="dubbov2_7-xml" target="1.8" />
+      <module name="interface" target="1.8" />
       <module name="provider-sleep5s-xml-application-v2_7" target="1.8" />
       <module name="provider-xml-application-v2_6" target="1.8" />
       <module name="provider-xml-application-v2_7" target="1.8" />
